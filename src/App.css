@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.sequence {
+  font-size: 2em;
+  margin: 20px;
+}
+
+.sequence .active {
+  color: red;
+}
+
+.timer {
+  font-size: 1.5em;
+  margin: 10px;
+}
+
+.result {
+  margin: 20px;
+}
+
+.result p {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+.result button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
