@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import Result from './Result';
 import Sequence from './Sequence';
 import Timer from './Timer';
